@@ -31,8 +31,7 @@ Produced regularized and unregularized logistic regression models to protect aga
 
 #### A1_E2_Q5.py: Testing Two Ridge Regression Models on Boston Housing Dataset
 
-#### A1_E3.py: Linear Regression, Ridge Regression With K-Fold Cross Validation, and Lasso         
-####           Regression With K-Fold Cross Validation
+#### A1_E3.py: Linear Regression, Ridge Regression With K-Fold Cross Validation, and Lasso  Regression With K-Fold Cross Validation
 
 #### A1_E4_Q1.py: K-Nearest Neighbour Regression
 
