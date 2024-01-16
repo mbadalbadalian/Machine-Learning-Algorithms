@@ -1,1 +1,28 @@
 # Machine-Learning-Algorithms
+
+## Overview
+
+This repository contains code for various machine learning projects focused on effective classification and model robustness. The projects cover a range of techniques and datasets, utilizing popular Python libraries such as Numpy, PyTorch, and more.
+
+## Project Details
+
+### 1. Spam Classification with Ensemble Methods
+Classified spam and non-spam emails using decision trees, bagging, boosting, and random forests methods in Python. The implementation leverages the Numpy library for efficient computation, ensuring effective classification across diverse datasets.
+
+### 2. GMM Model for PCA Transformed MNIST Datasets
+Developed a Gaussian Mixture Model (GMM) to classify Principal Component Analysis (PCA) transformed MNIST datasets. This project explores the application of unsupervised learning techniques for effective data representation and classification.
+
+### 3. VAE and GAN for MNIST Image Generation
+Programmed a Variational Autoencoder (VAE) and a Generative Adversarial Network (GAN) to generate MNIST image samples. The implementation is in Python using the PyTorch library, showcasing the use of deep learning models for image synthesis.
+
+### 4. Robust CNN with Adversarial Training
+Trained a Convolutional Neural Network (CNN) model on perturbed MNIST images. The training process involved the use of Fast Gradient Sign Method (FGSM) and Projected Gradient Descent to enhance the model's resilience against adversarial attacks.
+
+### 5. Logistic Regression for Membership Inference Protection
+Produced regularized and unregularized logistic regression models to protect against membership inference attacks using the MNIST dataset. This project addresses the security concerns associated with privacy-preserving machine learning models.
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mbadalbadalian/Machine-Learning-Algorithms.git
