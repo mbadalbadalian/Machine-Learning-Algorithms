@@ -1,9 +1,5 @@
 # Machine-Learning-Algorithms
 
-## Overview
-
-This repository contains code for various machine learning projects focused on effective classification and model robustness. The projects cover a range of techniques and datasets, utilizing popular Python libraries such as Numpy, PyTorch, and more.
-
 ## Interesting Topics Explored
 
 ### 1. Spam Classification with Ensemble Methods
