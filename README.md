@@ -39,6 +39,44 @@ Produced regularized and unregularized logistic regression models to protect aga
 
 #### A1_E4_Q3.py: Further Testing of K-Nearest Neighbour Regression vs Least Squares Regression on Various Mystery Datasets
 
+### Assignment 2 Code
+
+#### A2_E1_Q1.py: 
+
+#### A2_E1_Q2.py: 
+
+#### A2_E2_Q4.py: 
+
+#### A2_E4_Q1.py: 
+
+#### A2_E4_Q2.py: 
+
+### Assignment 3 Code
+
+#### A3_E2_Q1.py:
+
+#### A3_E3_Q1_a.py:
+
+#### A3_E3_Q1_b.py:
+
+### Assignment 4 Code
+
+#### A4_E1_Q1_a.py:
+
+#### A4_E1_Q1_b.py:
+
+#### A4_E3_Q1_a.py:
+
+#### A4_E3_Q1_b.py:
+
+#### A4_E3_Q1_c.py:
+
+#### A4_E3_Q1_d.py:
+
+#### A4_E4_Q1_a.py:
+
+#### A4_E4_Q1_b.py:
+
 ## Usage
 
 1. Clone the repository:
