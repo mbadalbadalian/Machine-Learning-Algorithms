@@ -4,7 +4,7 @@
 
 This repository contains code for various machine learning projects focused on effective classification and model robustness. The projects cover a range of techniques and datasets, utilizing popular Python libraries such as Numpy, PyTorch, and more.
 
-## Project Details
+## Interesting Topics Explored
 
 ### 1. Spam Classification with Ensemble Methods
 Classified spam and non-spam emails using decision trees, bagging, boosting, and random forests methods in Python. The implementation leverages the Numpy library for efficient computation, ensuring effective classification across diverse datasets.
@@ -20,6 +20,18 @@ Trained a Convolutional Neural Network (CNN) model on perturbed MNIST images. Th
 
 ### 5. Logistic Regression for Membership Inference Protection
 Produced regularized and unregularized logistic regression models to protect against membership inference attacks using the MNIST dataset. This project addresses the security concerns associated with privacy-preserving machine learning models.
+
+## Algorithms Used
+
+### Assignment 1 Code
+
+#### A1_E2_Q3.py:
+#### A1_E2_Q4.py:
+#### A1_E2_Q5.py:
+#### A1_E3.py:
+#### A1_E4_Q1.py:
+#### A1_E4_Q2.py:
+#### A1_E4_Q3.py:
 
 ## Usage
 
