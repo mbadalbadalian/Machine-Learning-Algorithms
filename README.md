@@ -25,15 +25,15 @@ Produced regularized and unregularized logistic regression models to protect aga
 
 ### Assignment 1 Code
 
-#### A1_E2_Q3.py: Ridge Regression
+#### A1_E2_Q3.py: Implementing Ridge Regression
 
-#### A1_E2_Q4.py: Ridge Regression With Gradient Descent
+#### A1_E2_Q4.py: Implementing Ridge Regression With Gradient Descent
 
 #### A1_E2_Q5.py: Testing Two Ridge Regression Models on Boston Housing Dataset
 
-#### A1_E3.py: Linear Regression, Ridge Regression With K-Fold Cross Validation, and Lasso  Regression With K-Fold Cross Validation
+#### A1_E3.py: Implementing Linear Regression, Ridge Regression With K-Fold Cross Validation, and Lasso Regression With K-Fold Cross Validation
 
-#### A1_E4_Q1.py: K-Nearest Neighbour Regression
+#### A1_E4_Q1.py: Implementing K-Nearest Neighbour Regression
 
 #### A1_E4_Q2.py: Testing K-Nearest Neighbour Regression on Various Mystery Datasets
 
@@ -41,41 +41,41 @@ Produced regularized and unregularized logistic regression models to protect aga
 
 ### Assignment 2 Code
 
-#### A2_E1_Q1.py: 
+#### A2_E1_Q1.py: Implementing Logistic Regression, Hard-Margin SVM, Soft-Margin SVM on Mystery Dataset
 
-#### A2_E1_Q2.py: 
+#### A2_E1_Q2.py: Further Use of Logistic Regression, Hard-Margin SVM, Soft-Margin SVM on Mystery Dataset
 
-#### A2_E2_Q4.py: 
+#### A2_E2_Q4.py: Implementing Soft-Margin SVM With Gradient Descent
 
-#### A2_E4_Q1.py: 
+#### A2_E4_Q1.py: Implementing Decision Trees
 
-#### A2_E4_Q2.py: 
+#### A2_E4_Q2.py: Implementing Decision Trees With Bagging
 
 ### Assignment 3 Code
 
-#### A3_E2_Q1.py:
+#### A3_E2_Q1.py: Implementing CNN
 
-#### A3_E3_Q1_a.py:
+#### A3_E3_Q1_a.py: Implementing GMM
 
-#### A3_E3_Q1_b.py:
+#### A3_E3_Q1_b.py: Implementing Modified GMM 
 
 ### Assignment 4 Code
 
-#### A4_E1_Q1_a.py:
+#### A4_E1_Q1_a.py: Implementing VAE
 
-#### A4_E1_Q1_b.py:
+#### A4_E1_Q1_b.py: Implementing GAN
 
-#### A4_E3_Q1_a.py:
+#### A4_E3_Q1_a.py: Implementing CNN
 
-#### A4_E3_Q1_b.py:
+#### A4_E3_Q1_b.py: Testing CNN on FGSM Adversarially Generated MNIST Images 
 
-#### A4_E3_Q1_c.py:
+#### A4_E3_Q1_c.py: Training CNN on FGSM Adversarially Generated MNIST Images
 
-#### A4_E3_Q1_d.py:
+#### A4_E3_Q1_d.py: Comparing Previous CNN Models With PGD Adversarially Generated MNIST Images
 
-#### A4_E4_Q1_a.py:
+#### A4_E4_Q1_a.py: Membership Inference on Created Data
 
-#### A4_E4_Q1_b.py:
+#### A4_E4_Q1_b.py: Membership Inference on MNIST Images
 
 ## Usage
 
